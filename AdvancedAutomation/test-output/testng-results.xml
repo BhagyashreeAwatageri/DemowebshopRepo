@@ -2,35 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-04T11:40:14 IST" name="Default suite" finished-at="2023-11-04T11:40:25 IST" duration-ms="10887">
+  <suite started-at="2023-11-10T12:35:24 IST" name="Default suite" finished-at="2023-11-10T12:35:36 IST" duration-ms="11715">
     <groups>
-      <group name="Functional Group">
-        <method signature="DWS_EmailFriend_08_Test.CaptureErrorMsgbyEmailingFriend()[pri:0, instance:emailError.DWS_EmailFriend_08_Test@7205765b]" name="CaptureErrorMsgbyEmailingFriend" class="emailError.DWS_EmailFriend_08_Test"/>
-      </group> <!-- Functional Group -->
     </groups>
-    <test started-at="2023-11-04T11:40:14 IST" name="Default test" finished-at="2023-11-04T11:40:25 IST" duration-ms="10887">
-      <class name="emailError.DWS_EmailFriend_08_Test">
-        <test-method is-config="true" signature="launchingBrowserAndNavigatingToApp()[pri:0, instance:emailError.DWS_EmailFriend_08_Test@7205765b]" started-at="2023-11-04T11:40:14 IST" name="launchingBrowserAndNavigatingToApp" finished-at="2023-11-04T11:40:20 IST" duration-ms="6046" status="PASS">
+    <test started-at="2023-11-10T12:35:24 IST" name="Default test" finished-at="2023-11-10T12:35:36 IST" duration-ms="11715">
+      <class name="removeWishList.DWS_RemoveWishList_10_Test">
+        <test-method is-config="true" signature="launchingBrowserAndNavigatingToApp()[pri:0, instance:removeWishList.DWS_RemoveWishList_10_Test@7205765b]" started-at="2023-11-10T12:35:25 IST" name="launchingBrowserAndNavigatingToApp" finished-at="2023-11-10T12:35:32 IST" duration-ms="6840" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchingBrowserAndNavigatingToApp -->
-        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:emailError.DWS_EmailFriend_08_Test@7205765b]" started-at="2023-11-04T11:40:20 IST" name="loginToApplication" finished-at="2023-11-04T11:40:20 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:removeWishList.DWS_RemoveWishList_10_Test@7205765b]" started-at="2023-11-10T12:35:32 IST" name="loginToApplication" finished-at="2023-11-10T12:35:32 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApplication -->
-        <test-method signature="CaptureErrorMsgbyEmailingFriend()[pri:0, instance:emailError.DWS_EmailFriend_08_Test@7205765b]" started-at="2023-11-04T11:40:20 IST" name="CaptureErrorMsgbyEmailingFriend" finished-at="2023-11-04T11:40:24 IST" duration-ms="4041" status="PASS">
+        <test-method signature="removefromWishList()[pri:0, instance:removeWishList.DWS_RemoveWishList_10_Test@7205765b]" started-at="2023-11-10T12:35:32 IST" name="removefromWishList" finished-at="2023-11-10T12:35:36 IST" duration-ms="3544" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CaptureErrorMsgbyEmailingFriend -->
-        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:emailError.DWS_EmailFriend_08_Test@7205765b]" started-at="2023-11-04T11:40:24 IST" name="logOutFromApplication" finished-at="2023-11-04T11:40:24 IST" duration-ms="0" status="PASS">
+        </test-method> <!-- removefromWishList -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:removeWishList.DWS_RemoveWishList_10_Test@7205765b]" started-at="2023-11-10T12:35:36 IST" name="logOutFromApplication" finished-at="2023-11-10T12:35:36 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logOutFromApplication -->
-        <test-method is-config="true" signature="tearDownTheBrowser()[pri:0, instance:emailError.DWS_EmailFriend_08_Test@7205765b]" started-at="2023-11-04T11:40:24 IST" name="tearDownTheBrowser" finished-at="2023-11-04T11:40:25 IST" duration-ms="259" status="PASS">
+        <test-method is-config="true" signature="tearDownTheBrowser()[pri:0, instance:removeWishList.DWS_RemoveWishList_10_Test@7205765b]" started-at="2023-11-10T12:35:36 IST" name="tearDownTheBrowser" finished-at="2023-11-10T12:35:36 IST" duration-ms="428" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownTheBrowser -->
-      </class> <!-- emailError.DWS_EmailFriend_08_Test -->
+      </class> <!-- removeWishList.DWS_RemoveWishList_10_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

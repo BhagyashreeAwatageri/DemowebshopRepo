@@ -23,7 +23,7 @@ public class DWS_RemoveWishList_10_Test extends BaseClass{
 			e.printStackTrace(); 
 		}
 		if(flag==false) {
-			System.out.println("wishlist is empty");
+			System.out.println("wishlist is not empty");
 		}
 	}
 
